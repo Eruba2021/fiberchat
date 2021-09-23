@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "435971075202",
+    "project_id": "fiberchat-aef92",
+    "storage_bucket": "fiberchat-aef92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435971075202:android:78d580bb93bd98e1b8589b",
+        "android_client_info": {
+          "package_name": "com.fiberchat.fiberchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435971075202-op1sb8203pdt5tjlth3k996qlratadch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2IMcIrrL4mTbcroMDFFcBx_GJ97oyIVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435971075202-op1sb8203pdt5tjlth3k996qlratadch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
