@@ -78,7 +78,7 @@ Future<void> downloadFile(
                                               100,
                                           center: new Text(
                                               "${downloadinfo.downloadedpercentage.floor()}%"),
-                                          progressColor: Colors.green[400],
+                                          progressColor: Colors.grey[400],
                                         ),
                                         Container(
                                           width: 180,

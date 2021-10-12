@@ -188,7 +188,7 @@ class SearchChatsState extends State<SearchChats> {
                               decoration: new BoxDecoration(
                                 shape: BoxShape.circle,
                                 color: user[Dbkeys.lastSeen] == true
-                                    ? Colors.green[400]
+                                    ? Colors.grey[400]
                                     : Colors.blue[300],
                               ),
                             )
@@ -198,7 +198,7 @@ class SearchChatsState extends State<SearchChats> {
                               decoration: new BoxDecoration(
                                 shape: BoxShape.circle,
                                 color: user[Dbkeys.lastSeen] == true
-                                    ? Colors.green[400]
+                                    ? Colors.grey[400]
                                     : Colors.grey,
                               ),
                             )),

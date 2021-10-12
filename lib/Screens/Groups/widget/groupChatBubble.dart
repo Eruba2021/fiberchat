@@ -306,7 +306,7 @@ class GroupChatBubble extends StatelessWidget {
         }
       case 4:
         {
-          return Colors.green;
+          return Colors.grey;
         }
       case 5:
         {

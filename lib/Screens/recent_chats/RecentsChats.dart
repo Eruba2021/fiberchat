@@ -165,7 +165,7 @@ class RecentChatsState extends State<RecentChats> {
                               decoration: new BoxDecoration(
                                 shape: BoxShape.circle,
                                 color: user[Dbkeys.lastSeen] == true
-                                    ? Colors.green[400]
+                                    ? Colors.grey[400]
                                     : Colors.blue[400],
                               ),
                             )
@@ -175,7 +175,7 @@ class RecentChatsState extends State<RecentChats> {
                               decoration: new BoxDecoration(
                                 shape: BoxShape.circle,
                                 color: user[Dbkeys.lastSeen] == true
-                                    ? Colors.green[400]
+                                    ? Colors.grey[400]
                                     : Colors.grey,
                               ),
                             )),

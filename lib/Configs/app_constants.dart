@@ -44,7 +44,7 @@ const GiphyAPIKey =
 
 //*--App Configurations---
 const Appname =
-    'Fiberchat'; //app name shown evrywhere with the app where required
+    'EChat'; //app name shown evrywhere with the app where required
 const IsSplashOnlySolidColor = false;
 const SplashBackgroundSolidColor = Color(
     0xFF005f56); //applies this colors if "IsSplashOnlySolidColor" is set to true

@@ -1,9 +1,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.fiberchat.fiberchat">
+    package="com.elruba.Echat">
 
     
    <application
-        android:label="Fiberchat"
+        android:label="Echat"
             android:name=".Application"
         android:icon="@mipmap/ic_launcher"
           android:requestLegacyExternalStorage="true">

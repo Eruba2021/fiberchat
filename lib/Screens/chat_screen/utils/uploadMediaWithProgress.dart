@@ -29,7 +29,7 @@ openUploadDialog(
           percent == null ? '0%' : "${(percent * 100).roundToDouble()}%",
           style: TextStyle(fontSize: 11),
         ),
-        progressColor: Colors.green[400],
+        progressColor: Colors.grey[400],
       ),
       Container(
         width: 195,

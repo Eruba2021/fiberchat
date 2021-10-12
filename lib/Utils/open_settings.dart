@@ -40,7 +40,7 @@ class OpenSettings extends StatelessWidget {
                 // ignore: deprecated_member_use
                 child: RaisedButton(
                     elevation: 0.5,
-                    color: Colors.green,
+                    color: Colors.grey,
                     textColor: fiberchatWhite,
                     onPressed: () {
                       Navigator.of(context).pop();

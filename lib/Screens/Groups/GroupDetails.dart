@@ -1380,7 +1380,7 @@ class _GroupDetailsState extends State<GroupDetails> {
                                                             Dbkeys
                                                                 .groupCREATEDBY]
                                                     ? Colors.purple[400]!
-                                                    : Colors.green[400] ??
+                                                    : Colors.grey[400] ??
                                                         Colors.grey,
                                                 width: 1.0),
                                             borderRadius:
@@ -1401,7 +1401,7 @@ class _GroupDetailsState extends State<GroupDetails> {
                                                                       .groupID)
                                                               .docmap[Dbkeys.groupCREATEDBY]
                                                       ? Colors.purple[400]
-                                                      : Colors.green[400]),
+                                                      : Colors.grey[400]),
                                             ),
                                           ),
                                         ),
@@ -1603,7 +1603,7 @@ class _GroupDetailsState extends State<GroupDetails> {
                                                         groupDoc[Dbkeys
                                                             .groupCREATEDBY]
                                                     ? Colors.purple[400]!
-                                                    : Colors.green[400]!,
+                                                    : Colors.grey[400]!,
                                                 width: 1.0),
                                             borderRadius:
                                                 new BorderRadius.circular(5.0),
@@ -1617,7 +1617,7 @@ class _GroupDetailsState extends State<GroupDetails> {
                                                         groupDoc[Dbkeys
                                                             .groupCREATEDBY]
                                                     ? Colors.purple[400]
-                                                    : Colors.green[400],
+                                                    : Colors.grey[400],
                                               ),
                                             ),
                                           ),
@@ -1720,7 +1720,7 @@ class _GroupDetailsState extends State<GroupDetails> {
                                                       groupDoc[
                                                           Dbkeys.groupCREATEDBY]
                                                   ? Colors.purple[400]!
-                                                  : Colors.green[400]!,
+                                                  : Colors.grey[400]!,
                                               width: 1.0),
                                           borderRadius:
                                               new BorderRadius.circular(5.0),
@@ -1734,7 +1734,7 @@ class _GroupDetailsState extends State<GroupDetails> {
                                                       groupDoc[
                                                           Dbkeys.groupCREATEDBY]
                                                   ? Colors.purple[400]
-                                                  : Colors.green[400],
+                                                  : Colors.grey[400],
                                             ),
                                           ),
                                         ),
@@ -1865,7 +1865,7 @@ class _GroupDetailsState extends State<GroupDetails> {
                                         decoration: new BoxDecoration(
                                           color: Colors.white,
                                           border: new Border.all(
-                                              color: Colors.green[400] ??
+                                              color: Colors.grey[400] ??
                                                   Colors.grey,
                                               width: 1.0),
                                           borderRadius:
@@ -1876,7 +1876,7 @@ class _GroupDetailsState extends State<GroupDetails> {
                                             getTranslated(context, 'admin'),
                                             style: new TextStyle(
                                                 fontSize: 11.0,
-                                                color: Colors.green[400]),
+                                                color: Colors.grey[400]),
                                           ),
                                         ),
                                       ),
@@ -2147,7 +2147,7 @@ class _GroupDetailsState extends State<GroupDetails> {
                                       decoration: new BoxDecoration(
                                         color: Colors.white,
                                         border: new Border.all(
-                                            color: Colors.green[400]!,
+                                            color: Colors.grey[400]!,
                                             width: 1.0),
                                         borderRadius:
                                             new BorderRadius.circular(5.0),
@@ -2157,7 +2157,7 @@ class _GroupDetailsState extends State<GroupDetails> {
                                           getTranslated(context, 'admin'),
                                           style: new TextStyle(
                                             fontSize: 11.0,
-                                            color: Colors.green[400],
+                                            color: Colors.grey[400],
                                           ),
                                         ),
                                       ),

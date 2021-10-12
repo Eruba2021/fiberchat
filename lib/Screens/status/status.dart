@@ -237,7 +237,7 @@ class _StatusState extends State<Status> with AutomaticKeepAliveClientMixin {
                                                             decoration:
                                                                 BoxDecoration(
                                                               color:
-                                                                  Colors.green,
+                                                                  Colors.grey,
                                                               shape: BoxShape
                                                                   .circle,
                                                             ),
@@ -479,7 +479,7 @@ class _StatusState extends State<Status> with AutomaticKeepAliveClientMixin {
                                                           ),
                                                           decoration:
                                                               BoxDecoration(
-                                                            color: Colors.green,
+                                                            color: Colors.grey,
                                                             shape:
                                                                 BoxShape.circle,
                                                           ),
@@ -674,7 +674,7 @@ class _StatusState extends State<Status> with AutomaticKeepAliveClientMixin {
                                                             decoration:
                                                                 BoxDecoration(
                                                               color:
-                                                                  Colors.green,
+                                                                  Colors.grey,
                                                               shape: BoxShape
                                                                   .circle,
                                                             ),
@@ -726,7 +726,7 @@ class _StatusState extends State<Status> with AutomaticKeepAliveClientMixin {
                                                           ),
                                                           decoration:
                                                               BoxDecoration(
-                                                            color: Colors.green,
+                                                            color: Colors.grey,
                                                             shape:
                                                                 BoxShape.circle,
                                                           ),

@@ -185,7 +185,7 @@ class _MultiPlaybackState extends State<MultiPlayback> {
                         child: CircularProgressIndicator(
                           strokeWidth: 1.7,
                           valueColor:
-                              AlwaysStoppedAnimation<Color>(Colors.green),
+                              AlwaysStoppedAnimation<Color>(Colors.grey),
                         ),
                       ),
                     ),
@@ -213,7 +213,7 @@ class _MultiPlaybackState extends State<MultiPlayback> {
                 color: getPauseResumeFn1() == null
                     ? widget.isMe!
                         ? DESIGN_TYPE == Themetype.whatsapp
-                            ? Colors.green[100]
+                            ? Colors.grey[100]
                             : Colors.blueGrey[100]
                         : Colors.blueGrey[100]
                     : Colors.blueGrey[800],
@@ -233,7 +233,7 @@ class _MultiPlaybackState extends State<MultiPlayback> {
                           },
                           icon: Icon(
                             Icons.mic_rounded,
-                            color: Colors.green[400],
+                            color: Colors.grey[400],
                             size: 30,
                           ),
                         ),
@@ -243,7 +243,7 @@ class _MultiPlaybackState extends State<MultiPlayback> {
                             child: Icon(
                               Icons.download,
                               size: 16,
-                              color: Colors.green[200],
+                              color: Colors.grey[200],
                             ))
                       ],
                     ),

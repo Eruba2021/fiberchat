@@ -296,7 +296,7 @@ class PickupScreen extends StatelessWidget {
                               ),
                               shape: CircleBorder(),
                               elevation: 2.0,
-                              fillColor: Colors.green[400],
+                              fillColor: Colors.grey[400],
                               padding: const EdgeInsets.all(15.0),
                             )
                           ],

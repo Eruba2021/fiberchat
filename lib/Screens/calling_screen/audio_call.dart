@@ -458,8 +458,8 @@ class _AudioCallState extends State<AudioCall> {
                         style: TextStyle(
                             fontSize: 20.0,
                             color: DESIGN_TYPE == Themetype.whatsapp
-                                ? Colors.green[300]
-                                : Colors.green[300],
+                                ? Colors.grey[300]
+                                : Colors.grey[300],
                             fontWeight: FontWeight.w600),
                       )
                     : Text(

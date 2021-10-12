@@ -7,12 +7,20 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:435971075202:android:78d580bb93bd98e1b8589b",
+        "mobilesdk_app_id": "1:435971075202:android:d698b4324b0e7647b8589b",
         "android_client_info": {
-          "package_name": "com.fiberchat.fiberchat"
+          "package_name": "com.elruba.Echat"
         }
       },
       "oauth_client": [
+        {
+          "client_id": "435971075202-44nvn79cs1vfjaulolr64ceaiolce8kd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elruba.Echat",
+            "certificate_hash": "ef320c467109091616820f64d5af17a3af77b81c"
+          }
+        },
         {
           "client_id": "435971075202-op1sb8203pdt5tjlth3k996qlratadch.apps.googleusercontent.com",
           "client_type": 3
